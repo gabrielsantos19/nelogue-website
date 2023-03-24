@@ -1,1 +1,0 @@
-import{_ as o,o as t,c as s,a as e}from"./index-2f4677c9.js";const _={},a={class:"about"},c=e("h1",null,"Sobre",-1),n=e("h2",null,"Trazido a vocês pelo caminho da ensolarada Adustina-BA",-1),r=[c,n];function d(i,l){return t(),s("div",a,r)}const h=o(_,[["render",d]]);export{h as default};
